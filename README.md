@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divyansh Chaturvedi
 - 👀 I’m interested in Latest technology in the market and origins of concepts .
-- 🌱 I’m currently learning C language
+- 🌱 I’m a Java Developer and have knowledge of advanced concepts as well such as Swing and Applets.
 - 📫 How to reach me linkdin-www.linkedin.com/in/divyansh-chaturvedi-9ab858202
 
 <!---
